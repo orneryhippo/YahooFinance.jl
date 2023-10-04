@@ -15,7 +15,7 @@ It was inspired by [quantmod in R](https://cran.r-project.org/web/packages/quant
 or
 
 ```@julia
-] add https://github.com/markushhh/YahooFinance.jl
+] add https://github.com/orneryhippo/YahooFinance.jl
 ```
 
 ## Usage
